@@ -1,4 +1,6 @@
 ### Get Start
+my go version 1.22.1
+Download and isntall GO https://go.dev/doc/install  
 Clone this project
 Inside main folder ```go-first-api``` open a terminal and run 
 ```shell
